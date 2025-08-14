@@ -1,24 +1,4 @@
-# 📊 Exploratory Data Analysis (EDA) on Retail Sales and McDonald’s Nutrition Facts
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1.6.2-brightgreen)
-![Seaborn](https://img.shields.io/badge/Seaborn-0.12.2-orange)
-
----
-
-## **Table of Contents**
-1. [Project Overview](#project-overview)  
-2. [Datasets](#datasets)  
-3. [Key Features and Analysis](#key-features-and-analysis)  
-   - [Retail Sales Dataset](#retail-sales-dataset)  
-   - [McDonald’s Nutrition Facts Dataset](#mcdonalds-nutrition-facts-dataset)  
-4. [Technologies and Libraries](#technologies-and-libraries)  
-5. [Usage](#usage)  
-6. [Insights & Recommendations](#insights--recommendations)  
-7. [Project Outcome](#project-outcome)  
-8. [License](#license)  
-
----
+# Exploratory Data Analysis (EDA) on Retail Sales and McDonald’s Nutrition Facts
 
 ## **Project Overview**
 This project performs a comprehensive **Exploratory Data Analysis (EDA)** on two datasets:
